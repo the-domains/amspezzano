@@ -1,0 +1,28 @@
+name: amspezzano
+favicon: null
+layout_spectrum: 0.9011220231186599
+typography_spectrum: 0.15394644159823656
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8929038376081735
+  lightness: 0.003382130991667509
+  saturation: 0.04628693335689604
+  rhythmicContrast: 0.4276623334735632
+purpose: []
