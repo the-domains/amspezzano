@@ -1,20 +1,4 @@
-name: amspezzano
-favicon: null
-layout_spectrum: 0.9011220231186599
-typography_spectrum: 0.15394644159823656
-title: Intellectual Asthmatic
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -24,6 +8,11 @@ color:
     - '#afc149'
   brandStrength: 0.8125
   lightness: 0.0625
-  saturation: 0.125
   rhythmicContrast: 0.4276623334735632
+  saturation: 0.125
+cta: {}
+layout_spectrum: 0.028153
+name: amspezzano
+opengraph: {}
 purpose: []
+typography_spectrum: 0.884009
