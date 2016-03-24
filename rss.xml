@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Anthony Spezzano who?]]></title>
         <description><![CDATA[Anthony Spezzano who?]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/amspezzano/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 21:56:45 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 21:58:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/amspezzano/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Who is Anthony Spezzano?]]></title>
             <description><![CDATA[<article><h1>Who is Anthony Spezzano?</h1><p>Anthony is currently completing the third year of his B.A., Spec. Hons. Cognitive Science. Anthony has a great passion for studying the brain, human behaviour and technology. Anthony's interests lie within many fields of discipline, but most recently it’s been the implementation of technology (or technological assistance/aid) into our daily life to help eliminate even the smallest of obstacles experienced by the average person, or the larger, more cumbersome hurdles, that affect so many. </p></article>]]></description>
-            <link>undefinedwho-is-anthony-spezzano/index.html</link>
+            <link>https://thegrid.ai/amspezzano/who-is-anthony-spezzano/index.html</link>
             <guid isPermaLink="false">d2c4993a-e88c-4675-b773-0ba7f54d5247</guid>
-            <pubDate>Thu, 24 Mar 2016 21:56:18 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 21:58:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
