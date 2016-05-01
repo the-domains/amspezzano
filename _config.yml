@@ -1,20 +1,4 @@
-name: amspezzano
-favicon: null
-layout_spectrum: 0.13062
-typography_spectrum: 0.76466
-title: Anthony Spezzano who?
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#ffffff'
@@ -22,8 +6,13 @@ color:
     - '#98979f'
     - '#294918'
     - '#afc149'
-  brandStrength: 0.8125
-  lightness: 0.0625
-  saturation: 0.125
-  rhythmicContrast: 0.4276623334735632
+  brandStrength: 0.458333
+  lightness: 0.75
+  rhythmicContrast: 0.238738
+  saturation: 0.759009
+cta: {}
+layout_spectrum: 1
+name: amspezzano
+opengraph: {}
 purpose: []
+typography_spectrum: 0.100225
